@@ -13,6 +13,7 @@ REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJ
 
 # Project Summary
 I chose this project because finding top rated movies in specific genres can be done but is confusing to navigate pages where that is not the focus.
-I found this project to be quite fun. I ran into problems and bugs with all kinds of stuff which taught me a lot even though it was very frustrating. The hardest part of all this was definetly making everything symetrical and neat through divs with flexbox and grid usage. It was also challenging to make every part of the webpage work for phones.
+I found this project to be quite fun. I ran into problems and bugs with all kinds of stuff which taught me a lot even though it was very frustrating. The hardest part of all this was definetly making everything symetrical and neat through divs with flexbox and grid usage. It was also challenging to make every part of the webpage work for phones. I also had to modify the idea I had, since finding top 5 for 2025 was not really possible. So I changed it into top 5 regardless of what year the movie was released.
 If I had more time I would probably try to learn how to make more advanced animations for stuff like genre selection, where I could instead make something like an animated menu that comes out with a click. I feel like that might have a cleaner look.
 I did manage to stick to the budget. I thought finding the movies, descriptions, rating and trailers would take a lot more time. Infact I thought that would take more time than coding any specific part of the website. However it did not take that long.
+
