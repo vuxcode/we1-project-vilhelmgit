@@ -1,8 +1,9 @@
 # Time Report
-
-> Write about what you have done and how long you have worked on each part of the project.
-
-For example: 
-
-- 2022-10-25 13:00 Worked for 1 hour.
-  - *List the things you have done.*
+12-05: 3 hrs
+12-07: 2 hrs
+12-08: 4 hrs
+12-09: 3 hrs
+12-10: 7 hrs
+12-11: 3 hrs
+12-15: 6 hrs
+Total: 28 hrs
