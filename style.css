@@ -85,7 +85,7 @@ head {
     width: 100%;
     max-width: 560px;
 }
-.movie img[src="images/star.png"] {
+.movie img.star {
     width: 15px;
     height: 15px;
 }
@@ -127,7 +127,7 @@ iframe {
 
 .home a {
     position: relative;
-    height: 300px;
+    height: 250px;
     width: 100%;
     text-decoration: none;
     background-color: rgb(18, 18, 18);
@@ -148,6 +148,13 @@ iframe {
     object-fit: cover;
     filter: brightness(60%);
     transition: filter 0.3s ease;
+    object-position: 50% 50%;
+}
+.home a img.top {
+    object-position: 50% top;
+}
+.home a img.between {
+    object-position: 50% 25%;
 }
 
 .home a:hover img {
