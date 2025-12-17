@@ -1,0 +1,8 @@
+The purpose of my website is to display the top 5 highest rated movies by IMDb for different genres of the year. So you would be able to select action for example, which would display the top 5 action movies released in 2025. You will also be able to view a trailer for the displayed movies.
+
+https://www.imdb.com/title/tt4574334/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_stra
+I like the design of this, because it looks clean and I feel like it's easy to navigate. However, there is a lot of information that I will not have on my website that this one has. However I will definetly be taking inspirating from how the trailer is displayed, as well as the short but great plot explanation.
+
+The website can display the top 5 movies for all genres, with a trailer and a brief explanation of the plot, it will also show the exact rating by IMDb. The website will be very easy to navigate, with a very minimalistic interface.
+
+Something that you might want to do when browsing movies is to combine genres, which my website will not be able to do. It can only show movies of different genres by themselves. Apart from that I don't think there is anything that would be expected that it won't do, since it's pretty straight forward that it just displays top 5 movies of the year for different genres.
